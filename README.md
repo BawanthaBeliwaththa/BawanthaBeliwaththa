@@ -1,4 +1,4 @@
-<center>#Hey I am Bawantha Beliwaththa 
+<center><h1>Hey I am Bawantha Beliwaththa</h1>
 
 <hr>
 
