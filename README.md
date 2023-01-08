@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
 <p align="left"> <img src="https://img.shields.io/twitter/follow/bawanthabeli?style=social" alt=BawanthaBeliwaththa /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://programming-pub-lk.ml), Sri Lanka
 
 - 👨‍💻 All of my projects are available at [https://bawanthabeliwaththa.ml](https://bawanthabeliwaththa.ml)
