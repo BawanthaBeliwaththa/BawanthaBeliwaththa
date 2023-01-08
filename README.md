@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/bawantha-beliwaththa-a7313a241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16589319/bawantha-beliwaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bawantha_be/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://t.me/bawanthabeliwaththa2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
+<a href="https://t.me/bawanthabeliwaththa2003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
