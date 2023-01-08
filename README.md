@@ -2,8 +2,8 @@
 <h3 align="center">Designer. Developer. Pentester.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
-<p align="left"> ![Twitter Followers](https://img.shields.io/twitter/follow/bawanthabeli?style=social) </p>
-<p align="left"> ![Instagram Followers](https://img.shields.io/instagram/follow/bawantha_be?style=social) </p>
+![Twitter Followers](https://img.shields.io/twitter/follow/bawanthabeli?style=social)
+![Instagram Followers](https://img.shields.io/instagram/follow/bawantha_be?style=social)
 
 - 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://programming-pub-lk.ml), Sri Lanka
 
