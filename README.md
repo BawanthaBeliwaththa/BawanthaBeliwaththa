@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
 
-- 🔭 I’m currently working at [Programming-Pub-Lk](https://programming-pub-lk.ml), Sri Lanka
+- 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://programming-pub-lk.ml), Sri Lanka
 
 - 👨‍💻 All of my projects are available at [https://bawanthabeliwaththa.ml](https://bawanthabeliwaththa.ml)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/BawanthaBeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
+<a href="https://twitter.com/BawanthaBeli" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bawantha-beliwaththa-a7313a241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16589319/bawantha-beliwaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bawantha_be/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
