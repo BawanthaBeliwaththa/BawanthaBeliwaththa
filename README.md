@@ -24,6 +24,7 @@
 <a href="https://www.instagram.com/bawantha_be/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://t.me/bawanthabeliwaththa2003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100080837795237" target="blank"><img align="center" src="https://archive.org/download/github-readme-icons/facebook-icon.png" alt="bawanthabeliwaththa" height="35" width="35" /></a>
+  <a href="https://www.youtube.com/channel/UCC7INFzQkB1MWUBMtp5SYFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="bawanthabeliwaththa" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages Used By Me:</h3>
