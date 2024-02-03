@@ -6,15 +6,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/BawanthaBeliwaththa/BawanthaBeliwaththa/blob/main/src/codde1.gif" width="400" height="256" />
 
-- 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://programming-pub-lk.ml), Sri Lanka
+- 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://ppblk.space), Sri Lanka
 
-- 👨‍💻 All of my projects are available at [https://bawanthabeliwaththa.ml](https://bawanthabeliwaththa.ml)
+- 👨‍💻 All of my projects are available at [https://bawantha.ppblk.space](https://bawantha.ppblk.space)
 
-- 📝 I regularly write articles on [https://blog.programming-pub-lk.ml](https://blog.programming-pub-lk.ml)
+- 📝 I regularly write articles on [https://ppblk.space](https://ppblk.space)
 
 - 💬 Ask me about **Anything AI and Web-Developing**
 
-- 📫 How to reach me **bawanthabeliwaththa@gmail.com**
+- 📫 How to reach me **bawantha@ppblk.space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
