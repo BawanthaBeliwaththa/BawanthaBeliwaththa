@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Bawantha Beliwaththa</h1>
-<h3 align="center">Designer. Developer. Pentester. From Sri Lanka </h3><img src="https://bawantha.ppblk.space/images/sl_flag.svg" width="20%">
+<h3 align="center">Designer. Developer. Pentester. From Sri Lanka </h3><img src="https://bawantha.ppblk.space/images/sl_flag.svg" width="20%" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
 <p align="left"> <img src="https://img.shields.io/twitter/follow/bawanthabeli?style=social" alt=BawanthaBeliwaththa /> </p>
