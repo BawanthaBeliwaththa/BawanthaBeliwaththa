@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Bawantha Beliwaththa</h1>
-<h3 align="center">Designer. Developer. Pentester. From Sri Lanka </h3>
+<h3 align="center">Designer. Developer. From Sri Lanka </h3>
 <p align="center"><img src="https://seekflag.com/wp-content/uploads/2021/12/Sri-Lankan-01-1.svg" width="15%"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
