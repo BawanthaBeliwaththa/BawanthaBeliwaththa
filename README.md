@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bawantha-beliwaththa.me](https://bawantha-beliwaththa.me)
 
-- 📝 I regularly write articles on [https://programming-pub.space](https://programming-pub.space)
+- 📝 I regularly write articles on [https://programming-pub.store](https://programming-pub.store)
 
 - 💬 Ask me about **Web-Developing** because I'm a web Developer
 
