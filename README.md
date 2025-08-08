@@ -7,15 +7,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/BawanthaBeliwaththa/BawanthaBeliwaththa/blob/main/src/codde1.gif" width="400" height="256" />
 
-- 🔭 I’m currently C.E.O at [Programming-Pub-Lk](https://ppblk.space), Sri Lanka
+- 🔭 I’m currently a student at University of herfordshire under Bsc.(hons) Data Science
 
-- 👨‍💻 All of my projects are available at [https://bawantha.ppblk.space](https://bawantha.ppblk.space)
+- 👨‍💻 All of my projects are available at [https://bawantha-beliwaththa.me](https://bawantha-beliwaththa.me)
 
-- 📝 I regularly write articles on [https://ppblk.space](https://ppblk.space)
+- 📝 I regularly write articles on [https://programming-pub.space](https://programming-pub.space)
 
-- 💬 Ask me about **Anything AI and Web-Developing**
+- 💬 Ask me about **Web-Developing** because I'm a web Developer
 
-- 📫 How to reach me **bawantha@ppblk.space**
+- 📫 How to reach me **admin@bawantha-beliwaththa.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +31,8 @@
 <h3 align="left">Languages Used By Me:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/8a77183652234a701ef35ef085d7870a677bff3c7a491df8a506dd27c1fa30df/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7068702d312e737667" alt="PHP" width="40" height="40"/> </a> <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/strarsis/36c65384c8afc78b8438357281123170/raw/486f394502c9feb6760e37e2ef6217eef7941ef0/shell.svg" alt="Shell" width="40" height="40"/> </a></p>
 
-<h3 align="left">I Use These Operating Systems Mostly:</h3>
-<p align="left"><a href="https://parrotsec.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" alt="parrotsec" width="40" height="40"/> </a> <a href="https://blackarch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" alt="balck-arch" width="40" height="40"/> </a> <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mac-os-2-logo-png-transparent.png" alt="MacOS" width="40" height="40"/> </a> 
+<h3 align="left">I Usually use These Operating Systems Mostly:</h3>
+<p align="left"><a href="https://blackarch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" alt="balck-arch" width="40" height="40"/> </a>
 </p>
 
 ## &#x1f4c8; My GitHub Status
