@@ -1,48 +1,128 @@
-<h1 align="center">Hi 👋, I am Bawantha Beliwaththa</h1>
-<h3 align="center">Designer. Developer. From Sri Lanka </h3>
-<p align="center"><img src="https://seekflag.com/wp-content/uploads/2021/12/Sri-Lankan-01-1.svg" width="15%"/></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I+am+Bawantha+Beliwaththa;Data+Science+Student;Full-Stack+Web+Developer;Open+Source+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa" alt="BawanthaBeliwaththa" /> </p>
-<p align="left"> <img src="https://img.shields.io/twitter/follow/bawanthabeli?style=social" alt=BawanthaBeliwaththa /> </p>
+<h3 align="center">Bridging the gap between data insights and elegant web solutions.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/BawanthaBeliwaththa/BawanthaBeliwaththa/blob/main/src/codde1.gif" width="400" height="256" />
+<p align="center">
+  <img src="https://seekflag.com/wp-content/uploads/2021/12/Sri-Lankan-01-1.svg" width="8%" />
+</p>
 
-- 🔭 I’m currently a student at University of herfordshire under Bsc.(hons) Data Science
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bawanthabeliwaththa&label=Profile%20Views&color=2bbc8a&style=flat" alt="bawanthabeliwaththa" />
+  <a href="https://twitter.com/BawanthaBeli">
+    <img src="https://img.shields.io/twitter/follow/BawanthaBeli?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://bawantha-beliwaththa.me">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbawantha-beliwaththa.me&label=Portfolio&style=flat&color=2bbc8a" alt="Portfolio" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://bawantha-beliwaththa.me](https://bawantha-beliwaththa.me)
+---
 
-- 📝 I regularly write articles on [https://programming-pub.store](https://programming-pub.store)
+### 🧑‍💻 About Me
 
-- 💬 Ask me about **Web-Developing** because I'm a web Developer
+<img align="right" alt="Coding" src="https://github.com/BawanthaBeliwaththa/BawanthaBeliwaththa/blob/main/src/codde1.gif" width="400" height="256" />
 
-- 📫 How to reach me **admin@bawantha-beliwaththa.me**
+- 🎓 I'm currently pursuing a **BSc (Hons) in Data Science** at the **University of Hertfordshire**.
+- 🔭 I'm passionate about **Machine Learning, Web3, and building performant web applications**.
+- 🌱 I'm currently diving deeper into **Cloud Computing (AWS) & Advanced Data Visualization**.
+- 👨‍💻 Explore my portfolio and projects at **[bawantha-beliwaththa.me](https://bawantha-beliwaththa.me)**
+- ✍️ I regularly share my learnings and insights on **[programming-pub.store](https://programming-pub.store)**
+- 💬 Ask me about **React, Node.js, Python, or how to start with Data Science**.
+- 📫 The best way to reach me is **admin@bawantha-beliwaththa.me**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/BawanthaBeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beliwaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16589319/bawantha-beliwaththa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bawantha_be/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://t.me/bawanthabeliwaththa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="bawanthabeliwaththa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100080837795237" target="blank"><img align="center" src="https://archive.org/download/github-readme-icons/facebook-icon.png" alt="bawanthabeliwaththa" height="35" width="35" /></a>
-  <a href="https://www.youtube.com/channel/UCC7INFzQkB1MWUBMtp5SYFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="bawanthabeliwaththa" height="35" width="35" /></a>
+  <a href="https://twitter.com/BawanthaBeli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/beliwaththa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/16589319/bawantha-beliwaththa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/bawantha_be/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://t.me/bawanthabeliwaththa" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100080837795237" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" /></a>
+  <a href="https://www.youtube.com/channel/UCC7INFzQkB1MWUBMtp5SYFA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages Used By Me:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/strarsis/36c65384c8afc78b8438357281123170/raw/486f394502c9feb6760e37e2ef6217eef7941ef0/shell.svg" alt="Shell" width="40" height="40"/> </a></p>
+---
 
-<h3 align="left">I Usually use These Operating Systems Mostly:</h3>
-<p align="left"><a href="https://blackarch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" alt="balck-arch" width="40" height="40"/> </a>
+### 🛠️ My Tech Stack
+
+#### 🚀 Languages & Frameworks
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
 
-## &#x1f4c8; My GitHub Status
+#### 🗄️ Databases & Tools
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+</p>
 
-<a href="https://github.com/bawanthabeliwaththa/bawanthabeliwaththa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bawanthabeliwaththa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="iamprogrammerlk's GitHub Stats" />
-</a>
-<a href="https://github.com/bawanthabeliwaththa/bawanthabeliwaththa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanthabeliwaththa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+#### 📊 Data Science & ML
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.paypal.com/signin/?returnUri=%2Fmyaccount%2Ftransfer%2FpayRequest%2FU-94R908477U869382E%2FU-0PL334692A808573K%3FclassicUrl%3D%2FLK%2Fcgi-bin%2F%3Fcmd%3D_prq&id=6l.gZld3gkFQ6q-gAyF1f4wNd2RUoDgUp8U5cA&expId=p2p&onboardData=%7B%22signUpRequest%22%3A%7B%22method%22%3A%22get%22%2C%22url%22%3A%22https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer%2FguestLogin%2FpayRequest%2FU-94R908477U869382E%2FU-0PL334692A808573K%3FclassicUrl%3D%2FLK%2Fcgi-bin%2F%3Fcmd%3D_prq%26id%3D6l.gZld3gkFQ6q-gAyF1f4wNd2RUoDgUp8U5cA%22%7D%7D&flowContextData=eaDdgrtuXEUqekbEDSO6yxmRx6A58zCRZQ9Df_WZ28X1K1KpCUvOwDIzYvDnyA0S_6CdgcAC3WxB6u8rMLHfGNcFNHcdMEPGIa8W1wRGXRUUmp-2uuotflzfgPqsqOYFgG_6TgZLLPXuAqyj75SE7EUZjmopKL3nW1-DsuEr4-i3-D8LMGzgcwKJfjUWvonwa2WkZrFFGqz2DojR&v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000186&utm_unptid=d62d5916-d753-11ec-851b-3cfdfef04e64&ppid=RT000186&cnac=LK&rsta=en_US%28en-LK%29&cust=&unptid=d62d5916-d753-11ec-851b-3cfdfef04e64&calc=aa6fb4e0fdabc&unp_tpcid=requestmoney-notifications-requestee&page=main%3Aemail%3ART000186&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.89.1&xt=104038"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bawanthabeliwaththa" /></a></p><br><br>
+#### 💻 Operating Systems I Use
+
+<p align="left">
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/bawanthabeliwaththa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bawanthabeliwaththa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2bbc8a&icon_color=2bbc8a&text_color=c9cacc" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanthabeliwaththa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2bbc8a&text_color=c9cacc&hide=html,css" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bawanthabeliwaththa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bawanthabeliwaththa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### ☕ Support My Work
+
+If you find my work helpful or interesting, consider buying me a coffee to keep me coding and creating!
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/bawanthabeliwaththa">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="Buy me a coffee" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!;Open+to+exciting+opportunities" alt="Typing SVG" />
+</p>
