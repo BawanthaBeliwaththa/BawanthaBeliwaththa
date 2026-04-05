@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I+am+Bawantha+Beliwaththa;Data+Science+Student;Full-Stack+Web+Developer;Open+Source+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bawantha+Beliwaththa;Data+Science+Student;Full-Stack+Web+Developer;Open+Source+Enthusiast;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Bridging the gap between data insights and elegant web solutions.</h3>
