@@ -94,23 +94,23 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/bawanthabeliwaththa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bawanthabeliwaththa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2bbc8a&icon_color=2bbc8a&text_color=c9cacc" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanthabeliwaththa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2bbc8a&text_color=c9cacc&hide=html,css" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bawanthabeliwaththa&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/bawanthabeliwaththa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bawanthabeliwaththa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bawanthabeliwaththa&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bawanthabeliwaththa&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bawanthabeliwaththa&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bawanthabeliwaththa&theme=radical&utcOffset=8" />
 </p>
 
 ---
-
 ### ☕ Support My Work
 
 If you find my work helpful or interesting, consider buying me a coffee to keep me coding and creating!
