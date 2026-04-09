@@ -27,10 +27,10 @@
 - 🎓 I'm currently pursuing a **BSc (Hons) in Data Science** at the **University of Hertfordshire**.
 - 🔭 I'm passionate about **Machine Learning, Web3, and building performant web applications**.
 - 🌱 I'm currently diving deeper into **Cloud Computing (AWS) & Advanced Data Visualization**.
-- 👨‍💻 Explore my portfolio and projects at **[bawantha-beliwaththa.me](https://bawantha-beliwaththa.me)**
-- ✍️ I regularly share my learnings and insights on **[programming-pub.store](https://programming-pub.store)**
+- 👨‍💻 Explore my portfolio and projects at **[bawantha.starlight-coders.site](https://bawantha.starlight-coders.site)**
+- ✍️ I regularly share my learnings and insights on **[programming-pub.store](https://starlight-coders.site)**
 - 💬 Ask me about **React, Node.js, Python, or how to start with Data Science**.
-- 📫 The best way to reach me is **admin@bawantha-beliwaththa.me**
+- 📫 The best way to reach me is **bawantha@starlight-coders.site**
 
 ---
 
