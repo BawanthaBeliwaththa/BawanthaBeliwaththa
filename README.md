@@ -28,7 +28,7 @@
 - 🔭 I'm passionate about **Machine Learning, Web3, and building performant web applications**.
 - 🌱 I'm currently diving deeper into **Cloud Computing (AWS) & Advanced Data Visualization**.
 - 👨‍💻 Explore my portfolio and projects at **[bawantha.starlight-coders.site](https://bawantha.starlight-coders.site)**
-- ✍️ I regularly share my learnings and insights on **[programming-pub.store](https://starlight-coders.site)**
+- ✍️ I regularly share my learnings and insights on **[Starlight-Coders](https://starlight-coders.site)**
 - 💬 Ask me about **React, Node.js, Python, or how to start with Data Science**.
 - 📫 The best way to reach me is **bawantha@starlight-coders.site**
 
