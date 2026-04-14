@@ -116,7 +116,7 @@
 If you find my work helpful or interesting, consider buying me a coffee to keep me coding and creating!
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/bawanthabeliwaththa">
+  <a href="https://ko-fi.com/beliwaththa">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="Buy me a coffee" />
   </a>
 </p>
