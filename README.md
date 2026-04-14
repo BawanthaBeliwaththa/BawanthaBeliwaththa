@@ -13,7 +13,7 @@
   <a href="https://twitter.com/BawanthaBeli">
     <img src="https://img.shields.io/twitter/follow/BawanthaBeli?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://bawantha-beliwaththa.me">
+  <a href="https://bawantha.starlight-coders.site/">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fbawantha-beliwaththa.me&label=Portfolio&style=flat&color=2bbc8a" alt="Portfolio" />
   </a>
 </p>
