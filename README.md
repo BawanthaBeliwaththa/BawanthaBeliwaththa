@@ -5,7 +5,7 @@
 <h3 align="center">Bridging the gap between data insights and elegant web solutions.</h3>
 
 <p align="center">
-  <img src="https://seekflag.com/wp-content/uploads/2021/12/Sri-Lankan-01-1.svg" width="8%" />
+  <img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/BawanthaBeliwaththa/refs/heads/main/src/flag-of-sri-lanka-free-vector.png" width="8%" />
 </p>
 
 <p align="center">
