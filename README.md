@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/twitter/follow/BawanthaBeli?style=social" alt="Twitter Follow" />
   </a>
   <a href="https://beliwaththa.web.lk">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbawantha-beliwaththa.me&label=Portfolio&style=flat&color=2bbc8a" alt="Portfolio" />
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbeliwaththa.web.lk&label=Portfolio&style=flat&color=2bbc8a" alt="Portfolio" />
   </a>
 </p>
 
